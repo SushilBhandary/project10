@@ -9,7 +9,7 @@ The website focuses on implementing the basics of HTML and CSS to create this We
 - position : relative
 - background-color: transparent
 
-## [Live Preview](https://project08-lyart.vercel.app/)
+## [Live Preview](https://vermillion-alpaca-ba8d6b.netlify.app/)
 
 ### SnapShot of the Webpage
 
