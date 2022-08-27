@@ -30,6 +30,11 @@ nav{
 
 }
 
+.list-item:hover{
+    color: #918b8b;
+
+}
+
 .list{
     display: flex;
     list-style-type: none;
@@ -78,12 +83,17 @@ nav{
     font-size: 25px;
     font-weight: bold;
     background-color: transparent;
-    color: #fff;
+    color: #ffffff;
     padding: 15px;
     border-radius: 30px;
     border: 3px solid #ffffff;
     width: 270px;
     margin-top: 30px;
+}
+
+.content>div>button:hover{
+    color: #918b8b;
+    border: 3px solid #918b8b;
 }
 
 .space{
@@ -94,6 +104,10 @@ nav{
     position: relative;
     top: -100px;
     right: 150px;
+}
+
+.space:hover{
+    background: linear-gradient(90deg,#2b4455,#4f6076);
 }
 
 .space>img{
@@ -116,6 +130,10 @@ nav{
     position: relative;
     right: 550px;
     top: 40px;
+}
+
+.idea:hover{
+    background: linear-gradient(90deg,#2a4456,#59849e);
 }
 
 .idea>img{
